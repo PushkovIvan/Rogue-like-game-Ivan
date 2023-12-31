@@ -5,6 +5,9 @@
 Если у вас уже установлен python3 - скачайте библиотеку pgzero
 
     pip install pgzero
+Перейдите в папку игры 
+
+    cd Rogue-like-game-Ivan
 
 А затем запустите игру командой 
 
